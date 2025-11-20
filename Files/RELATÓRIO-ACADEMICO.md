@@ -119,5 +119,7 @@ O laboratório demonstrou que vulnerabilidades simples podem ser exploradas rapi
 ---
 
 ## **8. Referências Bibliográficas**
-*(Adicione suas referências acadêmicas aqui conforme normas da instituição.)*
+*1. BRANCO, Rodrigo. Ataques e Defesa em Redes. São Paulo: Novatec, 2019.
+2. KIM, David; SOLOMON, Michael. Fundamentals of Information Systems Security. Jones & Bartlett, 2018.
+3. OWASP. OWASP Testing Guide. Disponível em: https://owasp.org.*
 
